@@ -6,45 +6,59 @@
 
 .carousel-item {
   height: 120vh;
-  min-height: 350px;
+  min-height: 300px;
   background: no-repeat center center scroll;
-  -webkit-background-size: white;
-  -moz-background-size: white;
-  -o-background-size: white;
-  background-size: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-size: 55px;
+  color: black !important;
 }
 
-.pesa{
-width: 120px;
-justify-content: space-evenly;
-}
+.slide{
+ 
+  font-size:55px;
 
-.list{
-  width: 120px;
-  justify-content: space-evenly;
 }
-
-.cigarro{
-  width: 120px;
-  justify-content: space-evenly;
+.slide h3 {
+  color: black !important;
+  font-size:40px;
 
 }
 
-.wallet{
-  width: 120px;
-  justify-content: space-evenly
-
+.slide p {
+  color: black !important;
+  font-size: 25px;
 }
 
-.cupon{
-  width: 120px;
-  justify-content: space-evenly
+.slide div{
 
+  color: black !important;
+  font-size:45px !important;
 }
 
+.content-p p{
+  font-size: 25px !important;
+}
 
+.social-media{
+  justify-content: flex-start !important;
+  color: white;
+  width: 400px;
+  padding-top: 80px;
+}
 
-.fondo{
-background: gray;
+.company{
+}
+
+.custom{
+  position: absolute;
+  bottom: 21px;
+  text-align: center;
+}
+
+.custom2{
+  margin-bottom: 170px
 
 }
