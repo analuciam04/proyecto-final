@@ -1,0 +1,50 @@
+/*!
+ * Start Bootstrap - Half Slider (https://startbootstrap.com/template-overviews/half-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-half-slider/blob/master/LICENSE)
+ */
+
+.carousel-item {
+  height: 120vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: white;
+  -moz-background-size: white;
+  -o-background-size: white;
+  background-size: white;
+}
+
+.pesa{
+width: 120px;
+justify-content: space-evenly;
+}
+
+.list{
+  width: 120px;
+  justify-content: space-evenly;
+}
+
+.cigarro{
+  width: 120px;
+  justify-content: space-evenly;
+
+}
+
+.wallet{
+  width: 120px;
+  justify-content: space-evenly
+
+}
+
+.cupon{
+  width: 120px;
+  justify-content: space-evenly
+
+}
+
+
+
+.fondo{
+background: gray;
+
+}
